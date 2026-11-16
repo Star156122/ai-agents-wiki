@@ -1,0 +1,3 @@
+檢查完成：投影片 15 張、Wiki 頁面 15 頁
+ERROR [grounding] 第 2 張的術語「何時」沒有出現在 concepts/ai-agent.md,concepts/when-to-use-agents.md
+結果：1 個錯誤，0 個警告
